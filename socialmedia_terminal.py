@@ -286,7 +286,7 @@ def view_profile(current_user, target):
     clear_screen()
 
     if target==username1:
-        profile()
+        profile(target)
 
     else:
 
@@ -386,6 +386,7 @@ def logic_userinterface():
         if user_input=="1":
             clear_screen()
             feed()
+            input("\nPress Enter to continue... ")
             
 
             
@@ -511,7 +512,7 @@ def app():
            clear_screen()
            print("\n👋 Exiting Social Media App. Goodbye!")
            save_data()
-           input("\nPress Enter to continue... ")
+           input("\nPress Enter to exit... ")
           # clear_screen()
           # print("Thank you for visit")
            #return to profile page
