@@ -1,0 +1,90 @@
+{
+    "users": {
+        "pushpak": {
+            "username": "pushpak",
+            "display_name": "bittu",
+            "password": "2006",
+            "Bio": "btech",
+            "Follower Count": 2,
+            "Following Count": 1,
+            "Follower": {
+                "kalyani": 0,
+                "vaishali": 0
+            },
+            "Following": {
+                "kalyani": 0
+            }
+        }
+        
+    },
+    "posts": {
+        "pushpak": {
+            "1": {
+                "username": "pushpak",
+                "post_id": 1,
+                "content": "engineers are the reason for all development and destruction",
+                "datetime": "29-06-2026 08:45 PM",
+                "Likes": 1,
+                "Liker list": {
+                    "pushpak": 0
+                }
+            },
+            "2": {
+                "username": "pushpak",
+                "post_id": 2,
+                "content": "hello",
+                "datetime": "29-06-2026 09:27 PM",
+                "Likes": 0,
+                "Liker list": {}
+            },
+            "3": {
+                "username": "pushpak",
+                "post_id": 3,
+                "content": "dhg",
+                "datetime": "29-06-2026 10:48 PM",
+                "Likes": 0,
+                "Liker list": {}
+            },
+            "4": {
+                "username": "pushpak",
+                "post_id": 4,
+                "content": "hello moto",
+                "datetime": "29-06-2026 11:01 PM",
+                "Likes": 0,
+                "Liker list": {}
+            },
+            "5": {
+                "username": "pushpak",
+                "post_id": 5,
+                "content": "post",
+                "datetime": "29-06-2026 11:05 PM",
+                "Likes": 0,
+                "Liker list": {}
+            },
+            "6": {
+                "username": "pushpak",
+                "post_id": 6,
+                "content": "nice",
+                "datetime": "29-06-2026 11:07 PM",
+                "Likes": 0,
+                "Liker list": {}
+            },
+            "7": {
+                "username": "pushpak",
+                "post_id": 7,
+                "content": "h",
+                "datetime": "29-06-2026 11:25 PM",
+                "Likes": 0,
+                "Liker list": {}
+            },
+            "8": {
+                "username": "pushpak",
+                "post_id": 8,
+                "content": "",
+                "datetime": "29-06-2026 11:38 PM",
+                "Likes": 0,
+                "Liker list": {}
+            }
+        }
+    }
+}
